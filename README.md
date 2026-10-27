@@ -47,8 +47,9 @@ of the Key Server keys.
 
 This program is a dependency for
 [EVM GNUPG](
-  https://github.com/themartiancompany/evm-gnupg)
-verification feature.
+  https://github.com/themartiancompany/evm-gnupg),
+(*OpenPGP on Ethereum* specification reference
+implementation) key verification feature.
 
 ## Installation
 
